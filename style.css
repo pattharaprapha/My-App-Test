@@ -135,8 +135,7 @@ body {
   border-bottom-color: var(--color-brand);
 }
 
-/* ===== แก้ไขจุดที่ 12 : เปลี่ยนสีข้อความใน footer ให้ต่างจากเดิม ===== */
 .page-footer {
-  color: #9ca3af;
+  color: #b486a8;
   font-size: 13px;
 }
